@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PraiseDaSun
+- 👀 I’m interested in video games / movies / iT
+- 🌱 I’m currently learning python and c++
+- 📫 How to reach me : tsukaito.tsu@gmail.com
